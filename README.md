@@ -2,6 +2,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B34A3&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend" alt="Typing SVG" />
 </a>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LarissaDaRochaNunes&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDaRochaNunes&layout=compact&theme=radical)
 
